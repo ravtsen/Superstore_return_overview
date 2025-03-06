@@ -1,4 +1,4 @@
-# Superstore_return_overview
+# Superstore Return Overview
 TripleTen Sprint 3 &amp; Sprint 4 projects
 
 ## Project Description
