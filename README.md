@@ -28,8 +28,7 @@ Make a visualization of the average profit against the average return rate on a 
 
 ## Skills Utilized:
 
-* Data cleaning
-* Data documentation
-* Pivot tables
 * Data visualization
+* Dashboard development
+* Storytelling
 * Data analysis  
